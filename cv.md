@@ -42,3 +42,18 @@ function Calculator() {
 let calculator = new Calculator();
 calculator.read();
 ```
+### WORK EXPERIENCE
+- Stepik. ["Generation Python": A Beginner's Course](https://stepik.org/course/58852/promo#toc?auth=login)
+    - [Certificate](https://stepik.org/cert/914614)
+- Stepik. ["Indie course Python programming by egoroff_channel": A Beginner's Course](https://stepik.org/course/63085/promo#toc?auth=login)
+    - [Certificate](https://stepik.org/cert/953699)
+- W3schools. [HTML Tutorial](https://www.w3schools.com/html/default.asp) (completed)
+- W3schools. [CSS Tutorial](https://www.w3schools.com/css/default.asp) (completed)
+- Modern JavaScript Tutorial. [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+### EDUCATION
+Sep 2000 - Mar 2006.  
+National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute".  
+Location: Kyiv, Ukraine.  
+Specialization: Electrical Power Consumption Systems.  
+Degree: Master
