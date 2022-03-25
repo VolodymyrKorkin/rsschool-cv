@@ -17,3 +17,28 @@ Technical development and programming, which are trending now,  always attracted
 * Javascript, Python
 * Git, VSCode
 * PSDETCH, Figma 
+### SAMPLE OF CODE
+Create a Calculator constructor function that creates objects with three methods:
+read() asks for two values ​​with prompt and stores their value in the properties of the object.
+sum() returns the sum of the entered properties.
+mul() returns the product of the input properties.
+```javascript
+function Calculator() {
+
+  this.read = function() {
+    this.firstNumber = +prompt('Введите первое число?', '0');
+    this.secondNumber = +prompt('Введите второе число?', '0');	
+  };
+
+  this.sum = function() {
+    return this.firstNumber + this.secondNumber;
+  };
+
+  this.mul = function() {
+    return this.firstNumber * this.secondNumber;
+  };
+}
+
+let calculator = new Calculator();
+calculator.read();
+```
