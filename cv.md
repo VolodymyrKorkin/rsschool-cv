@@ -57,3 +57,7 @@ National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institu
 Location: Kyiv, Ukraine.  
 Specialization: Electrical Power Consumption Systems.  
 Degree: Master
+### LANGUAGES
+Russian - native  
+Ukrainian - free  
+English - B1 - intermediate
