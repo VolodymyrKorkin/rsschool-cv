@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    
+}
+
+body {
+    background: #f5f7fa;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.main {
+    background: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0,0,0,.15);
+}
+
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-photo {
+    width: 370px;
+}
+
+.about-me {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 40px;
+    padding-bottom: 110px;
+}
+
+.contacts-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.contacts-link {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffffff;
+}
+
+.contacts-item {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-left: 10px;
+}
+
+.contact-details {
+    color: #d4d6d9;
+}
+
+.profession {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+
+.my-name {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.summary-title, 
+.technical-skills-title, 
+.sample-code-title,
+.work-experience-title,
+.education-title,
+.languages-title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+ 
+.summary-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+}
+
+.technical-skills-item {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 20px;
+}
+
+.work-experience-period,
+.education-period {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 15px;
+}
+
+.work-experience-details {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.education-place,
+.education-specialization,
+.education-location,
+.languages-skills,
+.technical-skills-details,
+.sample-code-details,
+.work-experience-link {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.footer {
+    background: #f7f4f4;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0,0,0,.15);
+
+    margin-top: 2px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 200px;
+    margin-left: 2px; 
+}
+
+.footer-block-github {
+    margin-left: 840px;
+}
+
+.footer-link {
+    color: black;
+    font-size: 30px;
+}
+  
+.footer-link:hover {
+    color: #410ba0;
+}
+  
+.footer-text {
+    margin-top: 10px;
+    margin-left: 100px;       
+    font-size: 24px;
+}
+
